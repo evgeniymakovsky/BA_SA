@@ -24,31 +24,31 @@
             }
           },
           {
-            "id": "305fa6655ae58bd6",
+            "id": "1bd9aaf1dac77bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План.md",
+                "file": "Content/3. Документация/3.6. Acceptance Criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План"
+              "title": "3.6. Acceptance Criteria"
             }
           },
           {
-            "id": "b64b48326f1680b9",
+            "id": "f12a6461a80fe3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/2. Requirements (Требования)/2.10. User Stories vs Use Cases.md",
+                "file": "Content/3. Документация/3.1. Способы текстового документирования требований.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.10. User Stories vs Use Cases"
+              "title": "3.1. Способы текстового документирования требований"
             }
           }
         ],
@@ -199,17 +199,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64b48326f1680b9",
+  "active": "789ddb650a58de72",
   "lastOpenFiles": [
-    "Content/2. Requirements (Требования)/2.9.1. Зачем документировать требования.md",
-    "Content/2. Requirements (Требования)/2.9. Способы текстового документирования требований.md",
+    "План.md",
+    "Content/3. Документация",
+    "Content/3. Документация/3.6. Acceptance Criteria.md",
+    "Content/3. Документация/3.5. Job Stories.md",
+    "Content/3. Документация/3.4. INVEST.md",
+    "Content/3. Документация/3.3. User Stories vs Use Cases.md",
+    "Content/3. Документация/3.2. Зачем документировать требования.md",
+    "Content/3. Документация/3.1. Способы текстового документирования требований.md",
     "Content/2. Requirements (Требования)/2.8. Основные артефакты, которые готовит БА после выявления требований.md",
     "Content/2. Requirements (Требования)/2.7. Процесс подготовки к выявлению бизнес-требований.md",
     "Content/2. Requirements (Требования)/2.5. S.M.A.R.T..md",
     "Content/2. Requirements (Требования)/2.6. Техники выявления требований.md",
     "Content/2. Requirements (Требования)/2.4. Бизнес-правила.md",
-    "Content/2. Requirements (Требования)/2.10. User Stories vs Use Cases.md",
-    "План.md",
     "Content/2. Requirements (Требования)/2.3. Wiegers.md",
     "Content/2. Requirements (Требования)/2.2. Системный подход к решению задач.md",
     "Content/2. Requirements (Требования)/2.1.7. Примеры и кейсы.md",
@@ -223,10 +227,6 @@
     "Content/1. General/1.2. SA Role.md",
     "Content/1. General/1.1. BA Role.md",
     "Content/2. Requirements (Требования)/2.3.4. Нефункциональные требования (Non-functional Requirements).md",
-    "Content/2. Requirements (Требования)/2.3.6. Дополнительные типы требований.md",
-    "Content/2. Requirements (Требования)/2.3.5. Системные требования (System Requirements).md",
-    "Content/2. Requirements (Требования)/2.3.3. Функциональные требования (Functional Requirements).md",
-    "Content/2. Requirements (Требования)/2.3.2. Пользовательские требования.md",
     "Content/2. Requirements (Требования)",
     "Content/1. General",
     "Content"
